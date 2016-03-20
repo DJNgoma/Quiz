@@ -284,6 +284,7 @@
 				1617F4851C96E74C0057E014 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
